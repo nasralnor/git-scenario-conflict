@@ -2,8 +2,4 @@ commit -1 from local
 commit -2 from online
 commit -3 from online
 commit -4 from local
-<<<<<<< Updated upstream
-commit -5 from online
-=======
-commit -5 from local
->>>>>>> Stashed changes
+
