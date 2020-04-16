@@ -1,2 +1,7 @@
 add online
+<<<<<<< Updated upstream
 add online 2
+=======
+add local
+
+>>>>>>> Stashed changes
